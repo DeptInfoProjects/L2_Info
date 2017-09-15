@@ -9,3 +9,4 @@ Il regroupe aussi les contributions des etudiants (sous forme d'agregagteur de s
 Enfin, il contient aussi le (nouveau) [wiki] de la L2 info.
 
 
+[wiki]: https://github.com/DeptInfoProjects/L2_Info/wiki
