@@ -1,9 +1,0 @@
-[submodule "Wiki"]
-	path = Wiki
-	url = https://github.com/DeptInfoProjects/L2_Info.wiki.git
-[submodule "2016-2017/PSI"]
-	path = 2016-2017/PSI
-	url = git@github.com:DeptInfoProjects/PSI_2016-2017.git
-[submodule "2016-2017/SYS"]
-	path = 2016-2017/SYS
-	url = git@github.com:DeptInfoProjects/SYS_2016-2017.git
